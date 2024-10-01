@@ -23,3 +23,8 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 ### Data Visualizations
+
+https://github.com/desoladuminu/LITA_class-Documentation/blob/main/NIN%20DESOLA%20OLUWADUMINU.jpeg
+
+
+

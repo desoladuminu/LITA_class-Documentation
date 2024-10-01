@@ -9,3 +9,9 @@
     
 - SQL (Structured query language) for querying of data
 - Github for portifolio building
+
+### Data cleaning and preparations
+In the initial phase of the data cleaning and preparations, we perform the fol7lowing action
+ 1. Data loading and inspection
+ 2. Handling missing variables
+ 3. Data cleaning and formatting

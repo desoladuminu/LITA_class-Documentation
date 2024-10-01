@@ -15,3 +15,7 @@ In the initial phase of the data cleaning and preparations, we perform the fol7l
  1. Data loading and inspection
  2. Handling missing variables
  3. Data cleaning and formatting
+
+'''SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE

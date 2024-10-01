@@ -22,3 +22,4 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+### Data Visualizations

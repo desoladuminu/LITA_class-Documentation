@@ -1,7 +1,6 @@
 # LITA_class-Documentation
 # LITA_class_Documentation
-
-(Tools used)(#tools-used)
+[Tools used](#tools-used)
 
 
 

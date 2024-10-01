@@ -7,7 +7,7 @@
  1. For Data cleaning
  2. For Analysis
  3. For Data Visualization
-    
+ ```   
 - SQL (Structured query language) for querying of data
 - Github for portifolio building
 

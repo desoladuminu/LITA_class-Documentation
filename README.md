@@ -24,9 +24,13 @@ WHERE CONDITION = TRUE
 ```
 ### Data Visualizations
 
-https://github.com/desoladuminu/LITA_class-Documentation/blob/main/NIN%20DESOLA%20OLUWADUMINU.jpeg
+(https://github.com/desoladuminu/LITA_class-Documentation/blob/main/NIN%20DESOLA%20OLUWADUMINU.jpeg)
 
-https://github.com/desoladuminu/LITA_class-Documentation/blob/main/SCHOOL%20TESTIMONIAL.jpeg
+(https://github.com/desoladuminu/LITA_class-Documentation/blob/main/SCHOOL%20TESTIMONIAL.jpeg)
+
+|Heading 1|Heading 2|Heading 3|
+|----------|----------|---------|
+|Table 1|Table 2|Table 3|
 
 
 

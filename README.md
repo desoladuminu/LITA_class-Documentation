@@ -2,9 +2,13 @@
 # LITA_class_Documentation
 [Tools used](#tools-used)
 
+##Project Title: My project Documentation
+
+##Project Overview
+From what I have learnt in Data Analysis, Data Analysis is the process of extracting insights, patterns, and meaning from data to solve problems or answer any questions.
 
 
-### Tools used
+### Tools used in Data Analysis
 
 - Microsoft Excel (download here)(https:\\www.microsoft.com)
  1. For Data cleaning

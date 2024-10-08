@@ -1,16 +1,19 @@
 # LITA_class-Documentation
 # LITA_class_Documentation
 
-##Project Title: My project Documentation
+## Project Title: My project Documentation
 
 [Project Overview](#project-overview)
+
 [Tools Used](#tools-used)
+
 [Data cleaning and preparations](#datacleaning-andpreparations)
+
 [Data Visualizations](#data-visualizations)
 
 
 
-##Project Overview
+## Project Overview
 From what I have learnt in Data Analysis, Data Analysis is the process of extracting insights, patterns, and meaning from data to solve problems or answer any questions.
 
 

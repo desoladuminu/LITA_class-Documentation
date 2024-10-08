@@ -3,10 +3,11 @@
 
 ##Project Title: My project Documentation
 
-[Project Overview] (#project-overview)
-[Tools Used] (#tools-used)
-[Data cleaning and preparations] (#data cleaning-and preparations)
-[Data Visualizations] (#data-visualizations)
+[Project Overview](#project-overview)
+[Tools Used](#tools-used)
+[Data cleaning and preparations](#datacleaning-andpreparations)
+[Data Visualizations](#data-visualizations)
+
 
 
 ##Project Overview

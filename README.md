@@ -1,8 +1,13 @@
 # LITA_class-Documentation
 # LITA_class_Documentation
-[Tools used](#tools-used)
 
 ##Project Title: My project Documentation
+
+[Project Overview] (#project-overview)
+[Tools Used] (#tools-used)
+[Data cleaning and preparations] (#data cleaning-and preparations)
+[Data Visualizations] (#data-visualizations)
+
 
 ##Project Overview
 From what I have learnt in Data Analysis, Data Analysis is the process of extracting insights, patterns, and meaning from data to solve problems or answer any questions.
@@ -17,6 +22,7 @@ From what I have learnt in Data Analysis, Data Analysis is the process of extrac
  
 - SQL (Structured query language) for querying of data
 - Github for portifolio building
+- Power BI
 
 ### Data cleaning and preparations
 
